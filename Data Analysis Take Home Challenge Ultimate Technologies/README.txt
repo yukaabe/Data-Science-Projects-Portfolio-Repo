@@ -7,3 +7,6 @@ The pdf include all the questions for the data science challenge.
 
 - Data Analysis Challenge Ultimate Technologies Inc.ipynb:
 The ipython notebook include all my solutions and code.
+
+- Ultimate Data Science Challenge Presentation Slide.pdf
+The pdf document includes the background of the data analysis challenges and my solutions.
